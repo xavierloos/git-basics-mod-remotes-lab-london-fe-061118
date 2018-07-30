@@ -5,9 +5,9 @@
     "passes": 0,
     "pending": 0,
     "failures": 6,
-    "start": "2018-07-30T16:01:45.956Z",
-    "end": "2018-07-30T16:01:45.984Z",
-    "duration": 28
+    "start": "2018-07-30T16:02:20.086Z",
+    "end": "2018-07-30T16:02:20.119Z",
+    "duration": 33
   },
   "tests": [
     {
@@ -37,7 +37,7 @@
     {
       "title": "has a README.md file in the my-repository folder",
       "fullTitle": "this lab has a README.md file in the my-repository folder",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "message": "no README.md file found within \"/my-repository\": expected './my-repository/README.md' to exist",
@@ -61,7 +61,7 @@
     {
       "title": "has at least one commit",
       "fullTitle": "the local repository has at least one commit",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "message": "no commits were found.  Use \"git commit -m\" followed by a message to create a commit: value: expected './my-repository/.git/logs' to exist",
@@ -112,7 +112,7 @@
     {
       "title": "has a README.md file in the my-repository folder",
       "fullTitle": "this lab has a README.md file in the my-repository folder",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "message": "no README.md file found within \"/my-repository\": expected './my-repository/README.md' to exist",
@@ -136,7 +136,7 @@
     {
       "title": "has at least one commit",
       "fullTitle": "the local repository has at least one commit",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "message": "no commits were found.  Use \"git commit -m\" followed by a message to create a commit: value: expected './my-repository/.git/logs' to exist",
